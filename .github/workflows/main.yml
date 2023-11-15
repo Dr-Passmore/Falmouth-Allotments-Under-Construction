@@ -33,3 +33,4 @@ jobs:
         api_location: '/'
         output_location: '' 
         app_build_command: 'echo "Build command placeholder"'
+        app_artifact_location: '/bin/staticsites/d38fae87-6452-4eee-84b1-082b73b27f45-swa-oryx/app'
